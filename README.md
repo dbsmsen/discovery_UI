@@ -1,6 +1,6 @@
 # discover_app
 
-A new Flutter project.
+This Flutter project implements a visually appealing home page for a content discovery app (travel or news related). The page features a list of articles with images, author information, social engagement metrics, and a location-based filter.
 
 ## Getting Started
 
